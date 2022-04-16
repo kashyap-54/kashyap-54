@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @kashyap-54
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <div align="center">
 <h2>Hello<img src="https://github.com/vstark21/vstark21/blob/master/Hi.gif" width=30px alt="Hi_GIF">, I'm <a href="https://vstark21.github.io"><small>Kashyap</small></a></h2>
 </div>
@@ -25,6 +19,7 @@
     	<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 </div><br>
 <div align="center" style="padding-top:10px;">
+	<h3>Get in touch</h3>
 <a href="https://www.instagram.com/k_kashyap_45/">
 <img src="https://github.com/vstark21/vstark21/blob/master/instagram.png" width=30px style="padding-right:10px;">
 </a>
